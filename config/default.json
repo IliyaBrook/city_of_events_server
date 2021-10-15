@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "16a5sd6a54123*&&@#asdasd",
+  "mongoUri": "mongodb+srv://brookDev:test12345678@cluster0.al8jx.mongodb.net/eventsProject?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000/"
+}
